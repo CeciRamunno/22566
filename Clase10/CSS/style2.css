@@ -1,0 +1,35 @@
+#cuadro1
+{
+    /* margin-top: 100px; */
+    /* padding-top: 50px; */
+    height: 250px;
+    width: 250px;
+    background-color: red;
+}
+
+#cuadro2
+{
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border: 20px;
+    border-color: green;
+    border-style: solid;
+}
+
+#cuadro4
+{
+    box-sizing: border-box;
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border: 20px;
+    border-color: green;
+    border-style: solid;
+    padding-top: 50px;
+}
+
+p
+{
+    font-size: 12px;
+}
